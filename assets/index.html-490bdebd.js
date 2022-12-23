@@ -1,0 +1,1 @@
+import{_ as t,V as a,W as n,X as e,$ as s}from"./framework-7146a8c9.js";const c={},o=e("h1",{id:"留言板",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#留言板","aria-hidden":"true"},"#"),s(" 留言板")],-1),r=e("p",null,"如你所见，这是一个留言板",-1),_=[o,r];function d(i,l){return a(),n("div",null,_)}const f=t(c,[["render",d],["__file","index.html.vue"]]);export{f as default};

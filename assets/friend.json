@@ -1,0 +1,16 @@
+{
+    "links": [
+        {
+            "name": "CHINQBlog",
+            "link": "https://www.chinq.xyz",
+            "icon": "https://www.chinq.xyz/assets/imgs/icons/avatar.webp",
+            "desc": "Stay young 😙"
+        },
+        {
+            "name": "Keritial",
+            "link": "https://krtl.top",
+            "icon": "https://r.krtl.top/@/head.png",
+            "desc": "The Void."
+        }
+    ]
+}
